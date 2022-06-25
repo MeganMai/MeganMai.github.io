@@ -23,4 +23,5 @@ Here is a place to show my projects using Python, SQL and Power BI
 
 ## Project 2 - Internet Ads Analytics
 ### Language: Power BI
+
 <iframe title="Nghia Mai" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=7b104733-cc94-4f38-8553-27e30d3f8eb9&autoAuth=true&ctid=41ab42a9-381b-48cf-8a85-720464922976&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWVhc3QtYXNpYS1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
