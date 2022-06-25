@@ -4,7 +4,7 @@ Hi, it's Megan, a Data Analytics Graduate from Generation Ireland/ UK
 Here is a place to show my projects using Python, SQL and Power BI
 
 ## [Project 1 - Exploring the Bitcoin Cryptocurrency Market](https://app.datacamp.com/workspace/w/d0972485-378c-4ed4-ae66-8032d84d8248)
-#OUTLINE
+# OUTLINE
 1. Bitcoin and Cryptocurrencies: Full dataset, filtering, and reproducibility
 2. Discard the cryptocurrencies without a market capitalization
 3. How big is Bitcoin compared with the rest of the cryptocurrencies?
@@ -15,3 +15,5 @@ Here is a place to show my projects using Python, SQL and Power BI
 8. How small is small?
 9. Most of corns are tiny?
 
+![](https://github.com/MeganMai/MeganMai.github.io/blob/main/images/Image-top%2010.svg)
+![](https://github.com/MeganMai/MeganMai.github.io/blob/main/images/Image-winner%20and%20loser.svg)
