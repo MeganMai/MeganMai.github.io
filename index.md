@@ -15,5 +15,5 @@ Here is a place to show my projects using Python, SQL and Power BI
 8. How small is small?
 9. Most of corns are tiny?
 
-![](https://github.com/MeganMai/MeganMai.github.io/blob/main/images/Image-top%2010.svg)
-![](https://github.com/MeganMai/MeganMai.github.io/blob/main/images/Image-winner%20and%20loser.svg)
+![](images/Image-top%2010.svg)
+![](images/Image-winner%20and%20loser.svg)
