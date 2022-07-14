@@ -24,7 +24,10 @@ Here is a place to show my projects using Python, SQL and Power BI
 ## **Project 2 - Internet Ads Analytics**
 ### Language: Power BI
 Using Power Query to clean and analyse Internet Marketing Campaign of a education company and visualize the sumary using Power BI desktop and Dashboad.
-<iframe title="Nghia Mai" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=7b104733-cc94-4f38-8553-27e30d3f8eb9&autoAuth=true&ctid=41ab42a9-381b-48cf-8a85-720464922976&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWVhc3QtYXNpYS1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
+
+![](images/Capture.PNG)
+
+<iframe title="Nghia Mai_Captone Project 1_V2_July" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=90d0c425-e190-4abf-883e-1f08c8a98b83&autoAuth=true&ctid=41ab42a9-381b-48cf-8a85-720464922976&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWVhc3QtYXNpYS1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
 
 ## **[Project 3 - Adventureworks Data Analytics and Visualizations](https://github.com/MeganMai/Data-analytics-and-visutalization-with-SQL-and-Python/settings)**
 ### Language: SQL, Python (pandas, matplotlib, plotly, json)
