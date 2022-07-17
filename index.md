@@ -3,7 +3,7 @@
 Hi, it's Megan, a Data Analytics Graduate from Generation Ireland/ UK
 Here is a place to show my projects using Python, SQL and Power BI
 
-## **[Project 1 - Adventureworks Data Analytics and Visualizations](https://github.com/MeganMai/Data-analytics-and-visutalization-with-SQL-and-Python/settings)**
+## **[Project 1 - Adventureworks Data Analytics and Visualizations](https://github.com/MeganMai/Data-analytics-and-visutalization-with-SQL-and-Python)**
 ### Language: SQL, Python (pandas, matplotlib, plotly, json)
 Analyze adventurworks data by SQL to find out regional sales data of US-the highest performing countries in sales values. 
 Plot bar charts, donut charts and maps chart using matplotlib, plotly and geojson
