@@ -3,20 +3,25 @@
 Hi, it's Megan, a Data Analytics Graduate from Generation Ireland/ UK
 Here is a place to show my projects using Python, SQL and Power BI
 
-## **[Project 1 - Adventureworks Data Analytics and Visualizations](https://github.com/MeganMai/Data-analytics-and-visutalization-with-SQL-and-Python)**
+## **[Project 1 - Data Analytics and Visualizations with SQL Server and Python](https://github.com/MeganMai/Data-analytics-and-visutalization-with-SQL-and-Python)**
 ### Language: SQL, Python (pandas, matplotlib, plotly, json)
 Analyze adventurworks data by SQL to find out regional sales data of US-the highest performing countries in sales values. 
 Plot bar charts, donut charts and maps chart using matplotlib, plotly and geojson
-![](images/Q1.%20RegSales_DPieChart_Megan.png)
+
+
+![](images/Double_Bar_Chart.png)
+
 Double Bar Chart (**MatPlotLib**) showing the differences between regions
 
 ![](images/Q1.%20RegSales_DPieChart_Megan.png)
+
 Double Donut Chart (**Plotly**) showing the differences of sales volumes and percentage between years
 
 ![](images/Q1.Mapplot_RegSalesYTD_Megan.png)
+
 Map Chart (**Plotly/ Json**) showing the differences of sales volumes within the region geographically
 
-## **[Project 2 - Marketing Campaign Analytics](https://github.com/MeganMai/Matketing-Campaign-Analytics)**
+## **[Project 2 - Marketing Campaign Analytics with Power BI](https://github.com/MeganMai/Matketing-Campaign-Analytics)**
 ### Language: Power BI
 Using Power Query to clean and analyse Internet Marketing Campaign of a education company and visualize the sumary using Power BI desktop and Dashboad.
 
