@@ -1,7 +1,10 @@
 
 ## Welcome to Megan Mai - Data Analytics Portfolio Page
 Hi, it's Megan, a Data Analytics Graduate from Generation Ireland/ UK
-Here is a place to show my projects using Python, SQL and Power BI
+
+Here is a place to show my projects using **Python, SQL** and **Power BI**
+
+Please contact me via my [email](nghia.maithi@gmail.com) and [linkedin](https://www.linkedin.com/in/megan-mai/) 
 
 ## **[Project 1 - Data Analytics and Visualizations with SQL Server and Python](https://github.com/MeganMai/Data-analytics-and-visutalization-with-SQL-and-Python)**
 ### Language: SQL, Python (pandas, matplotlib, plotly, json)
