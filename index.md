@@ -5,9 +5,14 @@ Here is a place to show my projects using Python, SQL and Power BI
 
 ## **[Project 1 - Data Analytics and Visualizations with SQL Server and Python](https://github.com/MeganMai/Data-analytics-and-visutalization-with-SQL-and-Python)**
 ### Language: SQL, Python (pandas, matplotlib, plotly, json)
-Analyze adventurworks data by SQL to find out regional sales data of US-the highest performing countries in sales values. 
-Plot bar charts, donut charts and maps chart using matplotlib, plotly and geojson
+Using SQL for data manipulation and Python (pandas, matplotlib, plotly, geojson) for Data visualization
 
+This project contains 2 parts:
+
+1. Transform the data in SQL Serer (SSMS)
+2. Process and Visualize Data in Python
+
+This project is working the AdventureWorks Database from Microsoft.
 
 ![](images/Double_Bar_Chart.png)
 
