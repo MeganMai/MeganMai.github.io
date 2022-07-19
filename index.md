@@ -12,7 +12,7 @@ This project contains 2 parts:
 1. Transform the data in SQL Serer (SSMS)
 2. Process and Visualize Data in Python
 
-This project is working the AdventureWorks Database from Microsoft.
+This project is working the [AdventureWorks Database](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms) from Microsoft.
 
 ![](images/Double_Bar_Chart.png)
 
