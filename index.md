@@ -45,7 +45,7 @@ This project is based on the [dataset provided by Olist](https://www.kaggle.com/
 
 
 Here is the completed dashboard 
-![](https://github.com/MeganMai/Olist-E-commerce-Bussiness-Intelligence/blob/main/Dashboard.PNG)
+![](images/Olist_Dashboard.PNG)
 
 ## **[Project 3 - Marketing Campaign Analytics with Power BI](https://github.com/MeganMai/Matketing-Campaign-Analytics)**
 ### Language: Power BI (DAX/ Dashboard)
