@@ -29,8 +29,26 @@ Double Donut Chart (**Plotly**) showing the differences of sales volumes and per
 
 Map Chart (**Plotly/ Json**) showing the differences of sales volumes within the region geographically
 
-## **[Project 2 - Marketing Campaign Analytics with Power BI](https://github.com/MeganMai/Matketing-Campaign-Analytics)**
-### Language: Power BI
+## **[Project 2 - Olist-E-commerce-Bussiness-Intelligence](https://github.com/MeganMai/Olist-E-commerce-Bussiness-Intelligence)**
+### Language: Python, DAX, Power BI
+
+Using SQL, Python and Power BI to analyze and visualize e-commerce data from Olist - the leading Brazilian e-commerce platform
+There are two main parts:
+1. Seller Intelligence
+2. Product Atrribute
+3. Sales Performance Analysis
+4. Logistic Performance Analysis
+5. Customer insights
+6. Sentimental Analysis
+
+This project is based on the [dataset provided by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
+
+Here is the completed dashboard 
+![](https://github.com/MeganMai/Olist-E-commerce-Bussiness-Intelligence/blob/main/Dashboard.PNG)
+
+## **[Project 3 - Marketing Campaign Analytics with Power BI](https://github.com/MeganMai/Matketing-Campaign-Analytics)**
+### Language: Power BI (DAX/ Dashboard)
 Using Power Query to clean and analyse Internet Marketing Campaign of a education company and visualize the sumary using Power BI desktop and Dashboad.
 
 ![](images/Capture.PNG)
