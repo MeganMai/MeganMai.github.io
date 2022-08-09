@@ -1,12 +1,12 @@
 
 ## Welcome to Megan Mai - Data Analytics Portfolio Page
-Hi, it's Megan, a Data Analytics Graduate from Generation Ireland/ UK
+Hi, it's Megan, a Data Analyst from Dublin from Generation Ireland/ UK with strong knowledge domain of Marketing and Business
 
 Here is a place to show my projects using **Python, SQL** and **Power BI**
 
 Please contact me via my [email](nghia.maithi@gmail.com) and [linkedin](https://www.linkedin.com/in/megan-mai/) 
 
-## **[Project 1 - Data Analytics and Visualizations with SQL Server and Python](https://github.com/MeganMai/Data-analytics-and-visutalization-with-SQL-and-Python)**
+## **[Python and SQL - Data Analytics and Visualizations](https://github.com/MeganMai/Data-analytics-and-visutalization-with-SQL-and-Python)**
 ### Language: SQL, Python (pandas, matplotlib, plotly, json)
 Using SQL for data manipulation and Python (pandas, matplotlib, plotly, geojson) for Data visualization
 
@@ -29,7 +29,7 @@ Double Donut Chart (**Plotly**) showing the differences of sales volumes and per
 
 Map Chart (**Plotly/ Json**) showing the differences of sales volumes within the region geographically
 
-## **[Project 2 - Olist-E-commerce-Bussiness-Intelligence](https://github.com/MeganMai/Olist-E-commerce-Bussiness-Intelligence)**
+## **[Python and Power BI/ DAX - Olist-E-commerce-Bussiness-Intelligence](https://github.com/MeganMai/Olist-E-commerce-Bussiness-Intelligence)**
 ### Language: Python, DAX, Power BI
 
 Using SQL, Python and Power BI to analyze and visualize e-commerce data from Olist - the leading Brazilian e-commerce platform
@@ -47,7 +47,7 @@ This project is based on the [dataset provided by Olist](https://www.kaggle.com/
 Here is the completed dashboard 
 ![](images/Olist_Dashboard.PNG)
 
-## **[Project 3 - Marketing Campaign Analytics with Power BI](https://github.com/MeganMai/Matketing-Campaign-Analytics)**
+## **[Power BI - Marketing Campaign Analytics](https://github.com/MeganMai/Matketing-Campaign-Analytics)**
 ### Language: Power BI (DAX/ Dashboard)
 Using Power Query to clean and analyse Internet Marketing Campaign of a education company and visualize the sumary using Power BI desktop and Dashboad.
 
