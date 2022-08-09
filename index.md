@@ -7,7 +7,7 @@ Here is a place to show my projects using **Python, SQL** and **Power BI**
 Please contact me via my [email](nghia.maithi@gmail.com) and [linkedin](https://www.linkedin.com/in/megan-mai/) 
 
 ## **[Python and SQL - Data Analytics and Visualizations](https://github.com/MeganMai/Data-analytics-and-visutalization-with-SQL-and-Python)**
-### Language: SQL, Python (pandas, matplotlib, plotly, json)
+### SQL, Python (pandas, matplotlib, plotly, json)
 Using SQL for data manipulation and Python (pandas, matplotlib, plotly, geojson) for Data visualization
 
 This project contains 2 parts:
@@ -30,7 +30,7 @@ Double Donut Chart (**Plotly**) showing the differences of sales volumes and per
 Map Chart (**Plotly/ Json**) showing the differences of sales volumes within the region geographically
 
 ## **[Python and Power BI/ DAX - Olist-E-commerce-Bussiness-Intelligence](https://github.com/MeganMai/Olist-E-commerce-Bussiness-Intelligence)**
-### Language: Python, DAX, Power BI
+### Python, DAX, Power BI
 
 Using SQL, Python and Power BI to analyze and visualize e-commerce data from Olist - the leading Brazilian e-commerce platform
 There are two main parts:
@@ -47,11 +47,15 @@ This project is based on the [dataset provided by Olist](https://www.kaggle.com/
 Here is the completed dashboard 
 ![](images/Olist_Dashboard.PNG)
 
-## **[Power BI - Marketing Campaign Analytics](https://github.com/MeganMai/Matketing-Campaign-Analytics)**
-### Language: Power BI (DAX/ Dashboard)
-Using Power Query to clean and analyse Internet Marketing Campaign of a education company and visualize the sumary using Power BI desktop and Dashboad.
 
-![](images/Capture.PNG)
-Live Dashboard
-<iframe title="Nghia Mai_Captone Project 1_V2_July" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=90d0c425-e190-4abf-883e-1f08c8a98b83&autoAuth=true&ctid=41ab42a9-381b-48cf-8a85-720464922976&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWVhc3QtYXNpYS1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
+## **[Tableau - Sales Analytics](https://public.tableau.com/app/profile/megan5107/viz/BusinessIntelligenceDashboard_16600826296280/BusinessIntelligenceDashboard?publish=yes)**
+### Tableau
+Using Tableau build a Sales Analytics/ Business Intelligence Dashboard.
+1. Revenue by Regions and States
+2. Revenue by Genders and Ages
+3. Sales performance over time
+
+
+![](images/Tableau%20Business%20Intelligence%20Dashboard.png)
+
 
